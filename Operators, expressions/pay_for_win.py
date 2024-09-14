@@ -8,5 +8,6 @@
 """
 
 
-
+def pay_pls(robux_balance, debt):
+    pass
 
