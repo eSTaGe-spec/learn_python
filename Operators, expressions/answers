@@ -1,0 +1,11 @@
+josephNoob
+def chance_to_kill(k, c):
+    return ((10 + k) * (c + 1)) // 100
+
+volleyball_legend
+def volleyball_legend(k, c):
+    return c ** k * 10
+
+pay_for_win
+def pay_pls(robux_balance, debt):
+    return (robux_balance + -debt) / 2
